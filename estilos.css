@@ -196,7 +196,7 @@ footer {
 
 }
 /* Aquí comienza ASOCIATE*/
-#Asociate { background-color: rgba(39, 36, 36, 0.639);
+#Asociate {background-color: rgba(39, 36, 36, 0.639);
     color: white;
     width: 50vw;              /* MITAD de la pantalla */
     height: 70%;            /* ALTO completo de la pantalla */
@@ -207,6 +207,4 @@ footer {
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight:100;
-
-
 }
